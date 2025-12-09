@@ -20,4 +20,5 @@ Bu proje, JavaScript'in temellerini, **DOM Manipülasyonunu** ve **LocalStorage*
 
 * **HTML5:** Sayfa iskeleti için.
 * **CSS3:** Modern ve temiz bir görünüm için.
-* **JavaScript (ES6+):** 
+* **JavaScript (ES6+):**
+ [🌐 Canlı Siteyi Görüntüle](https://merve-gunes.github.io/to-do-list/)
